@@ -1,0 +1,16 @@
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\bin\Debug\net5.0\ej2.exe
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\bin\Debug\net5.0\ej2.deps.json
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\bin\Debug\net5.0\ej2.runtimeconfig.json
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\bin\Debug\net5.0\ej2.runtimeconfig.dev.json
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\bin\Debug\net5.0\ej2.dll
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\bin\Debug\net5.0\ref\ej2.dll
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\bin\Debug\net5.0\ej2.pdb
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\obj\Debug\net5.0\ej2.csproj.AssemblyReference.cache
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\obj\Debug\net5.0\ej2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\obj\Debug\net5.0\ej2.AssemblyInfoInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\obj\Debug\net5.0\ej2.AssemblyInfo.cs
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\obj\Debug\net5.0\ej2.csproj.CoreCompileInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\obj\Debug\net5.0\ej2.dll
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\obj\Debug\net5.0\ref\ej2.dll
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\obj\Debug\net5.0\ej2.pdb
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej2\obj\Debug\net5.0\ej2.genruntimeconfig.cache

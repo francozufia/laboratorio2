@@ -1,0 +1,7 @@
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej3\bin\Debug\ej3.exe.config
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej3\bin\Debug\ej3.exe
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej3\bin\Debug\ej3.pdb
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej3\obj\Debug\ej3.csproj.AssemblyReference.cache
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej3\obj\Debug\ej3.csproj.CoreCompileInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej3\obj\Debug\ej3.exe
+D:\Facultad\UDA\Primero\laboratorio2\tp1_naveda\ej3\obj\Debug\ej3.pdb

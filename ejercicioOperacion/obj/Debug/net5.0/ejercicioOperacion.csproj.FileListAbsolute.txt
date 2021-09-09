@@ -1,0 +1,16 @@
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\bin\Debug\net5.0\ejercicioOperacion.exe
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\bin\Debug\net5.0\ejercicioOperacion.deps.json
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\bin\Debug\net5.0\ejercicioOperacion.runtimeconfig.json
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\bin\Debug\net5.0\ejercicioOperacion.runtimeconfig.dev.json
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\bin\Debug\net5.0\ejercicioOperacion.dll
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\bin\Debug\net5.0\ref\ejercicioOperacion.dll
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\bin\Debug\net5.0\ejercicioOperacion.pdb
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\obj\Debug\net5.0\ejercicioOperacion.csproj.AssemblyReference.cache
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\obj\Debug\net5.0\ejercicioOperacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\obj\Debug\net5.0\ejercicioOperacion.AssemblyInfoInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\obj\Debug\net5.0\ejercicioOperacion.AssemblyInfo.cs
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\obj\Debug\net5.0\ejercicioOperacion.csproj.CoreCompileInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\obj\Debug\net5.0\ejercicioOperacion.dll
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\obj\Debug\net5.0\ref\ejercicioOperacion.dll
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\obj\Debug\net5.0\ejercicioOperacion.pdb
+D:\Facultad\UDA\Primero\laboratorio2\tps\ejercicioOperacion\obj\Debug\net5.0\ejercicioOperacion.genruntimeconfig.cache

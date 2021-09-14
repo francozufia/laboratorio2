@@ -10,12 +10,9 @@ namespace CarritoCompras
 {
     class Carrito
     {
-        private int precioUnitario;
-        private int cantidad = 0;
+        private int precioUnitario , cantidad = 0 , tipoDescuento = 0 , op;
         private bool sigue = true;
-        private double precio = 0;
-        private double precioDescuento = 0;
-        private int tipoDescuento = 0 ,op ;
+        private double precio = 0 , precioDescuento = 0;
         private String decision;
 
         Queue productos = new Queue();

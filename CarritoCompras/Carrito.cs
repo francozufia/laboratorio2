@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace CarritoCompras
@@ -37,8 +38,12 @@ namespace CarritoCompras
                 Console.WriteLine("             El tipo de descuento aplicado es " + this.tipoDescuento + " %");
                 Console.WriteLine("             Precio final con descuento  : $ "  + this.precioDescuento);
                 Console.WriteLine("_______________________________________________________________");
-                Console.Write("Opcion : ");
-                op = Int16.Parse(Console.ReadLine());
+                do
+                {
+                    Console.Write("Opcion : ");
+                    op = Convert.ToInt32(Console.ReadLine());
+
+                } while (op < 1 || op > 3 );
                 Console.WriteLine("");
 
                 switch (op)
@@ -48,13 +53,20 @@ namespace CarritoCompras
                         precio = precio + 1000;
                         break;
                     case 2:
-                        productos.Dequeue();
-                        precio = precio - 1000;
+                        if (cantidad >= 1)
+                        {
+                            productos.Dequeue();
+                            precio = precio - 1000;
+                        }
                         break;
                     case 3:
                         Console.Clear();
-                        Console.Write("¿Esta seguro que desea salir ? \n s/n : ");
-                        decision = Console.ReadLine();
+                        do
+                        {
+                            Console.Write("¿Esta seguro que desea salir ? \n s/n : ");
+                            decision = Console.ReadLine();
+                        } while (decision != "S" && decision != "s" && decision != "N" && decision != "n");
+
                         if(decision == "s" || decision =="S")
                         {
                             sigue = false;

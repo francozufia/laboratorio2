@@ -5,3 +5,10 @@ D:\Facultad\UDA\Primero\laboratorio2\CarritoCompras\obj\Debug\CarritoCompras.csp
 D:\Facultad\UDA\Primero\laboratorio2\CarritoCompras\obj\Debug\CarritoCompras.csproj.CoreCompileInputs.cache
 D:\Facultad\UDA\Primero\laboratorio2\CarritoCompras\obj\Debug\CarritoCompras.exe
 D:\Facultad\UDA\Primero\laboratorio2\CarritoCompras\obj\Debug\CarritoCompras.pdb
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras\bin\Debug\CarritoCompras.exe.config
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras\bin\Debug\CarritoCompras.exe
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras\bin\Debug\CarritoCompras.pdb
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras\obj\Debug\CarritoCompras.csproj.AssemblyReference.cache
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras\obj\Debug\CarritoCompras.csproj.CoreCompileInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras\obj\Debug\CarritoCompras.exe
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras\obj\Debug\CarritoCompras.pdb

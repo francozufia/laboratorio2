@@ -1,0 +1,16 @@
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\bin\Debug\net5.0\CarritoCompras2.exe
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\bin\Debug\net5.0\CarritoCompras2.deps.json
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\bin\Debug\net5.0\CarritoCompras2.runtimeconfig.json
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\bin\Debug\net5.0\CarritoCompras2.runtimeconfig.dev.json
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\bin\Debug\net5.0\CarritoCompras2.dll
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\bin\Debug\net5.0\ref\CarritoCompras2.dll
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\bin\Debug\net5.0\CarritoCompras2.pdb
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\obj\Debug\net5.0\CarritoCompras2.csproj.AssemblyReference.cache
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\obj\Debug\net5.0\CarritoCompras2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\obj\Debug\net5.0\CarritoCompras2.AssemblyInfoInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\obj\Debug\net5.0\CarritoCompras2.AssemblyInfo.cs
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\obj\Debug\net5.0\CarritoCompras2.csproj.CoreCompileInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\obj\Debug\net5.0\CarritoCompras2.dll
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\obj\Debug\net5.0\ref\CarritoCompras2.dll
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\obj\Debug\net5.0\CarritoCompras2.pdb
+D:\Facultad\UDA\Primero\laboratorio2\tps\CarritoCompras2\obj\Debug\net5.0\CarritoCompras2.genruntimeconfig.cache

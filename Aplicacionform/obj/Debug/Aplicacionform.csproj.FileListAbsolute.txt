@@ -1,0 +1,10 @@
+D:\Facultad\UDA\Primero\laboratorio2\Aplicacionform\bin\Debug\Aplicacionform.exe.config
+D:\Facultad\UDA\Primero\laboratorio2\Aplicacionform\bin\Debug\Aplicacionform.exe
+D:\Facultad\UDA\Primero\laboratorio2\Aplicacionform\bin\Debug\Aplicacionform.pdb
+D:\Facultad\UDA\Primero\laboratorio2\Aplicacionform\obj\Debug\Aplicacionform.csproj.AssemblyReference.cache
+D:\Facultad\UDA\Primero\laboratorio2\Aplicacionform\obj\Debug\Aplicacionform.Properties.Resources.resources
+D:\Facultad\UDA\Primero\laboratorio2\Aplicacionform\obj\Debug\Aplicacionform.csproj.GenerateResource.cache
+D:\Facultad\UDA\Primero\laboratorio2\Aplicacionform\obj\Debug\Aplicacionform.csproj.CoreCompileInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\Aplicacionform\obj\Debug\Aplicacionform.exe
+D:\Facultad\UDA\Primero\laboratorio2\Aplicacionform\obj\Debug\Aplicacionform.pdb
+D:\Facultad\UDA\Primero\laboratorio2\Aplicacionform\obj\Debug\Aplicacionform.formPrincipal.resources

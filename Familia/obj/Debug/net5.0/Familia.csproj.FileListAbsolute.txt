@@ -1,0 +1,16 @@
+D:\Facultad\UDA\Primero\laboratorio2\Familia\bin\Debug\net5.0\Familia.exe
+D:\Facultad\UDA\Primero\laboratorio2\Familia\bin\Debug\net5.0\Familia.deps.json
+D:\Facultad\UDA\Primero\laboratorio2\Familia\bin\Debug\net5.0\Familia.runtimeconfig.json
+D:\Facultad\UDA\Primero\laboratorio2\Familia\bin\Debug\net5.0\Familia.runtimeconfig.dev.json
+D:\Facultad\UDA\Primero\laboratorio2\Familia\bin\Debug\net5.0\Familia.dll
+D:\Facultad\UDA\Primero\laboratorio2\Familia\bin\Debug\net5.0\ref\Familia.dll
+D:\Facultad\UDA\Primero\laboratorio2\Familia\bin\Debug\net5.0\Familia.pdb
+D:\Facultad\UDA\Primero\laboratorio2\Familia\obj\Debug\net5.0\Familia.csproj.AssemblyReference.cache
+D:\Facultad\UDA\Primero\laboratorio2\Familia\obj\Debug\net5.0\Familia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\UDA\Primero\laboratorio2\Familia\obj\Debug\net5.0\Familia.AssemblyInfoInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\Familia\obj\Debug\net5.0\Familia.AssemblyInfo.cs
+D:\Facultad\UDA\Primero\laboratorio2\Familia\obj\Debug\net5.0\Familia.csproj.CoreCompileInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\Familia\obj\Debug\net5.0\Familia.dll
+D:\Facultad\UDA\Primero\laboratorio2\Familia\obj\Debug\net5.0\ref\Familia.dll
+D:\Facultad\UDA\Primero\laboratorio2\Familia\obj\Debug\net5.0\Familia.pdb
+D:\Facultad\UDA\Primero\laboratorio2\Familia\obj\Debug\net5.0\Familia.genruntimeconfig.cache

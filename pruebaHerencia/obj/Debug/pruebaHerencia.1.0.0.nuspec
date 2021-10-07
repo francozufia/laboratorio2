@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>pruebaHerencia</id>
+    <version>1.0.0</version>
+    <authors>pruebaHerencia</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\bin\Debug\net5.0\pruebaHerencia.runtimeconfig.json" target="lib\net5.0\pruebaHerencia.runtimeconfig.json" />
+    <file src="D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\bin\Debug\net5.0\pruebaHerencia.dll" target="lib\net5.0\pruebaHerencia.dll" />
+  </files>
+</package>

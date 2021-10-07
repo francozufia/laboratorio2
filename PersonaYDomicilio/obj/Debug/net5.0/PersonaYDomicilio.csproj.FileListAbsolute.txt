@@ -1,0 +1,16 @@
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\bin\Debug\net5.0\PersonaYDomicilio.exe
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\bin\Debug\net5.0\PersonaYDomicilio.deps.json
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\bin\Debug\net5.0\PersonaYDomicilio.runtimeconfig.json
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\bin\Debug\net5.0\PersonaYDomicilio.runtimeconfig.dev.json
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\bin\Debug\net5.0\PersonaYDomicilio.dll
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\bin\Debug\net5.0\ref\PersonaYDomicilio.dll
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\bin\Debug\net5.0\PersonaYDomicilio.pdb
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\obj\Debug\net5.0\PersonaYDomicilio.csproj.AssemblyReference.cache
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\obj\Debug\net5.0\PersonaYDomicilio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\obj\Debug\net5.0\PersonaYDomicilio.AssemblyInfoInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\obj\Debug\net5.0\PersonaYDomicilio.AssemblyInfo.cs
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\obj\Debug\net5.0\PersonaYDomicilio.csproj.CoreCompileInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\obj\Debug\net5.0\PersonaYDomicilio.dll
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\obj\Debug\net5.0\ref\PersonaYDomicilio.dll
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\obj\Debug\net5.0\PersonaYDomicilio.pdb
+D:\Facultad\UDA\Primero\laboratorio2\PersonaYDomicilio\obj\Debug\net5.0\PersonaYDomicilio.genruntimeconfig.cache

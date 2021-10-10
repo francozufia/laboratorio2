@@ -1,0 +1,16 @@
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\bin\Debug\net5.0\pruebaHerencia.exe
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\bin\Debug\net5.0\pruebaHerencia.deps.json
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\bin\Debug\net5.0\pruebaHerencia.runtimeconfig.json
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\bin\Debug\net5.0\pruebaHerencia.runtimeconfig.dev.json
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\bin\Debug\net5.0\pruebaHerencia.dll
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\bin\Debug\net5.0\ref\pruebaHerencia.dll
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\bin\Debug\net5.0\pruebaHerencia.pdb
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\obj\Debug\net5.0\pruebaHerencia.csproj.AssemblyReference.cache
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\obj\Debug\net5.0\pruebaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\obj\Debug\net5.0\pruebaHerencia.AssemblyInfoInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\obj\Debug\net5.0\pruebaHerencia.AssemblyInfo.cs
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\obj\Debug\net5.0\pruebaHerencia.csproj.CoreCompileInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\obj\Debug\net5.0\pruebaHerencia.dll
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\obj\Debug\net5.0\ref\pruebaHerencia.dll
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\obj\Debug\net5.0\pruebaHerencia.pdb
+D:\Facultad\UDA\Primero\laboratorio2\pruebaHerencia\obj\Debug\net5.0\pruebaHerencia.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+D:\Facultad\UDA\Primero\laboratorio2\pruebaDataGrid\bin\Debug\pruebaDataGrid.exe.config
+D:\Facultad\UDA\Primero\laboratorio2\pruebaDataGrid\bin\Debug\pruebaDataGrid.exe
+D:\Facultad\UDA\Primero\laboratorio2\pruebaDataGrid\bin\Debug\pruebaDataGrid.pdb
+D:\Facultad\UDA\Primero\laboratorio2\pruebaDataGrid\obj\Debug\pruebaDataGrid.csproj.AssemblyReference.cache
+D:\Facultad\UDA\Primero\laboratorio2\pruebaDataGrid\obj\Debug\pruebaDataGrid.Form1.resources
+D:\Facultad\UDA\Primero\laboratorio2\pruebaDataGrid\obj\Debug\pruebaDataGrid.Properties.Resources.resources
+D:\Facultad\UDA\Primero\laboratorio2\pruebaDataGrid\obj\Debug\pruebaDataGrid.csproj.GenerateResource.cache
+D:\Facultad\UDA\Primero\laboratorio2\pruebaDataGrid\obj\Debug\pruebaDataGrid.csproj.CoreCompileInputs.cache
+D:\Facultad\UDA\Primero\laboratorio2\pruebaDataGrid\obj\Debug\pruebaDataGrid.exe
+D:\Facultad\UDA\Primero\laboratorio2\pruebaDataGrid\obj\Debug\pruebaDataGrid.pdb

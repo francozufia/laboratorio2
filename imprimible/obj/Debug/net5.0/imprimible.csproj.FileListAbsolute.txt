@@ -1,0 +1,16 @@
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\bin\Debug\net5.0\imprimible.exe
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\bin\Debug\net5.0\imprimible.deps.json
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\bin\Debug\net5.0\imprimible.runtimeconfig.json
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\bin\Debug\net5.0\imprimible.runtimeconfig.dev.json
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\bin\Debug\net5.0\imprimible.dll
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\bin\Debug\net5.0\ref\imprimible.dll
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\bin\Debug\net5.0\imprimible.pdb
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\obj\Debug\net5.0\imprimible.csproj.AssemblyReference.cache
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\obj\Debug\net5.0\imprimible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\obj\Debug\net5.0\imprimible.AssemblyInfoInputs.cache
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\obj\Debug\net5.0\imprimible.AssemblyInfo.cs
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\obj\Debug\net5.0\imprimible.csproj.CoreCompileInputs.cache
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\obj\Debug\net5.0\imprimible.dll
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\obj\Debug\net5.0\ref\imprimible.dll
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\obj\Debug\net5.0\imprimible.pdb
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\imprimible\obj\Debug\net5.0\imprimible.genruntimeconfig.cache

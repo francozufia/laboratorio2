@@ -1,0 +1,16 @@
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\bin\Debug\net5.0\Volador.exe
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\bin\Debug\net5.0\Volador.deps.json
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\bin\Debug\net5.0\Volador.runtimeconfig.json
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\bin\Debug\net5.0\Volador.runtimeconfig.dev.json
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\bin\Debug\net5.0\Volador.dll
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\bin\Debug\net5.0\ref\Volador.dll
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\bin\Debug\net5.0\Volador.pdb
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\obj\Debug\net5.0\Volador.csproj.AssemblyReference.cache
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\obj\Debug\net5.0\Volador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\obj\Debug\net5.0\Volador.AssemblyInfoInputs.cache
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\obj\Debug\net5.0\Volador.AssemblyInfo.cs
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\obj\Debug\net5.0\Volador.csproj.CoreCompileInputs.cache
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\obj\Debug\net5.0\Volador.dll
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\obj\Debug\net5.0\ref\Volador.dll
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\obj\Debug\net5.0\Volador.pdb
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\laboratorio2\Volador\obj\Debug\net5.0\Volador.genruntimeconfig.cache

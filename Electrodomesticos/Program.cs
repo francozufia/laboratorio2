@@ -19,10 +19,18 @@ namespace Electrodomesticos
 
             foreach(Electrodomestico producto in electro)
             {
-               Console.WriteLine(producto.GetType().Name + " --> $ " + producto.precioFinal());
+                Console.WriteLine(producto.GetType().Name + " --> $ " + producto.PrecioFinal());
             }
 
- 
+            //las siguentes lineas me tiran un precio final erroneo
+            foreach(Electrodomestico producto in electro)
+            {
+                aux = 0;
+                aux = producto.PrecioFinal();
+                total += aux;
+            }
+
+            Console.WriteLine("Precio total : $ {0}", total);
         }
     }
 }

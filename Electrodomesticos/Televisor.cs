@@ -24,7 +24,7 @@ namespace Electrodomesticos
         public int Resolucion { get => resolucion; set => resolucion = value; }
         public bool Tdt { get => tdt; set => tdt = value; }
 
-        public override double precioFinal()
+        public override double PrecioFinal()
         {
             if (resolucion > 40)
             {
@@ -34,7 +34,7 @@ namespace Electrodomesticos
             {
                 base.PrecioBase = base.PrecioBase * 1.5;
             }
-             return base.precioFinal();
+            return base.PrecioFinal();
         }
     }
 }

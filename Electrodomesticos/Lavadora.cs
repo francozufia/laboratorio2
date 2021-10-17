@@ -22,13 +22,17 @@ namespace Electrodomesticos
         {
         }
 
-        public override double precioFinal()
+        public Lavadora(double precioBase, double peso) : base(precioBase, peso)
+        {
+        }
+
+        public override double PrecioFinal()
         {
             if (this.carga > 30)
             {
                 base.PrecioBase = base.PrecioBase + 50;
-            }  
-           return base.precioFinal();
+            }
+            return base.PrecioFinal();
         }
     }
 }

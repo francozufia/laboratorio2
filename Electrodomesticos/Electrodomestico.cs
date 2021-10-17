@@ -36,13 +36,13 @@ namespace Electrodomesticos
             this.Peso = peso;
         }
 
-        public virtual void comprobarConsumoEnergetico(char consumo)
+        public virtual void ComprobarConsumoEnergetico(char consumo)
         {
             if (ConsumoEnergetico == 'A' || ConsumoEnergetico == 'B' || ConsumoEnergetico == 'C' || ConsumoEnergetico == 'D' || ConsumoEnergetico == 'E' || ConsumoEnergetico == 'F')
                 this.ConsumoEnergetico = consumo;         
         }
 
-        public virtual void comprobarColor(String color)
+        public virtual void ComprobarColor(String color)
         {
             if (color == "blanco" || color == "rojo" || color == "gris" || color == "azul" || color == "negro")
                 this.Color = color;
@@ -50,7 +50,7 @@ namespace Electrodomesticos
                 this.Color = "blanco";
         }
 
-        public virtual double precioFinal()
+        public virtual double PrecioFinal()
         {
             if (this.Peso >= 0 && this.Peso <= 19) this.PrecioBase += 10;
             else if (this.Peso >= 20 && this.Peso <= 49) this.PrecioBase += 50;
@@ -64,7 +64,6 @@ namespace Electrodomesticos
             else if (this.ConsumoEnergetico == 'F') this.PrecioBase += 30;
             else this.PrecioBase += 10;
 
- 
             return this.precioBase;
         }
     }

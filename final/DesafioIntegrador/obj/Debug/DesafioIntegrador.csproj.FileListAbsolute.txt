@@ -1,0 +1,10 @@
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\final\DesafioIntegrador\obj\Debug\DesafioIntegrador.csproj.AssemblyReference.cache
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\final\DesafioIntegrador\obj\Debug\DesafioIntegrador.Form1.resources
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\final\DesafioIntegrador\obj\Debug\DesafioIntegrador.Properties.Resources.resources
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\final\DesafioIntegrador\obj\Debug\DesafioIntegrador.csproj.GenerateResource.cache
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\final\DesafioIntegrador\obj\Debug\DesafioIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\final\DesafioIntegrador\bin\Debug\DesafioIntegrador.exe.config
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\final\DesafioIntegrador\bin\Debug\DesafioIntegrador.exe
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\final\DesafioIntegrador\bin\Debug\DesafioIntegrador.pdb
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\final\DesafioIntegrador\obj\Debug\DesafioIntegrador.exe
+C:\Users\zufia\OneDrive\Escritorio\Facultad\UDA\Primero\laboratorio2\final\DesafioIntegrador\obj\Debug\DesafioIntegrador.pdb
